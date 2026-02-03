@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👋 Hi, I’m Suhel<br><br>I’m a Data Science student focused on building practical, end-to-end solutions using Python, machine learning, and data analysis.<br><br>I’m currently strengthening my fundamentals in statistics, data preprocessing, feature engineering, and model building, while also skilling up in **MLOps concepts such as experiment tracking, model versioning, and deployment workflows**.<br><br>I use this GitHub profile to document my learning, projects, and experiments as I work toward becoming an industry-ready data scientist.<br>
+## 👋 Hi, I’m Suhel Khan<br><br>I’m a Data Science student focused on building practical, end-to-end solutions using Python, machine learning, and data analysis.<br><br>I’m currently strengthening my fundamentals in statistics, data preprocessing, feature engineering, and model building, while also skilling up in **MLOps concepts such as experiment tracking, model versioning, and deployment workflows**.<br><br>I use this GitHub profile to document my learning, projects, and experiments as I work toward becoming an industry-ready data scientist.<br>
 
 
 ## 🌐 Socials:
